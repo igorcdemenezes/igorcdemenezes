@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a psychologist and currently studying Software Analysis and Development.
+I am a psychologist and currently studying Software Analysis and Development. Completely passionate and obsessed with programming!
 <!--
 **igorcdemenezes/igorcdemenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
